@@ -1,0 +1,10 @@
+{
+  "name": "KaBasket",
+  "description": "Basketball computer vision app with 60s reaction points dribble training drill, court calibration, crossover tracking, 3D adaptive hoop perspective, and tactical video analysis",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

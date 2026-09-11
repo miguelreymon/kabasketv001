@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#FF6B1A</color>
+    <color name="surface_dark">#0B0B0E</color>
+    <color name="surface_secondary">#16161C</color>
+    <color name="surface_tertiary">#22222B</color>
+    <color name="text_primary">#F5F5F7</color>
+    <color name="text_muted">#8E8E93</color>
+    <color name="status_make">#2ECC71</color>
+    <color name="status_miss">#FF453A</color>
+    <color name="status_warning">#FFB020</color>
+    <color name="status_info">#0A84FF</color>
+</resources>

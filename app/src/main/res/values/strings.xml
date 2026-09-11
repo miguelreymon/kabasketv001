@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KaBasket</string>
+    <string name="hud_title">KA BASKET VISION TEST</string>
+    <string name="camera_on">CAMERA: ON</string>
+    <string name="camera_off">CAMERA: OFF</string>
+    <string name="pill_player">PLAYER</string>
+    <string name="pill_ball">BALL</string>
+    <string name="pill_hoop">HOOP</string>
+    <string name="stat_shots">SHOTS</string>
+    <string name="stat_make">MAKE</string>
+    <string name="stat_miss">MISS</string>
+    <string name="stat_accuracy">ACCURACY</string>
+    <string name="location_label">LOCATION</string>
+    <string name="btn_reset">RESET</string>
+    <string name="btn_debug">DEBUG</string>
+    <string name="permission_title">KA BASKET VISION TEST</string>
+    <string name="permission_body">This test uses your camera to detect the player, ball and hoop and to track makes and misses in real time. Nothing is recorded or uploaded — all processing happens on your device.</string>
+    <string name="permission_denied">Camera access is blocked. Enable it in Settings to run the test.</string>
+    <string name="btn_enable_camera">ENABLE CAMERA</string>
+    <string name="btn_open_settings">OPEN SETTINGS</string>
+    <string name="btn_try_again">TRY AGAIN</string>
+    <string name="btn_simulate_shot">TEST SHOT</string>
+</resources>
